@@ -1,0 +1,8 @@
+{
+    "message_id": "3",
+    "command": "commission_with_code",
+    "args": {
+        "code": "MT:6DNT1PP614-E8O61P10",
+        "network_only": false
+    }
+}
