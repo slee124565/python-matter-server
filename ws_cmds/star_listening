@@ -1,7 +1,2 @@
-{
-   "message_id":"1",
-   "command":"start_listening",
-   "args":{
+{"message_id": "1", "command": "start_listening", "args": {}}
 
-   }
-}
